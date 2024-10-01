@@ -48,9 +48,28 @@ dbo.films250 stores films.  Column primaryTitle is the film name.  dbo.filmsgros
 
 ![Answers with model notes](/images/notesandcasting.png)
 
+## 4. Add some sample queries
+4a. Click the pencil symbol by **Example SQL Queries** in the lower right-hand side of the screen
+
+4b. Add the following text for the question:
+```
+List all films and their total gross sales
+```
+
+4c. Add the folloiwng SQL query:
+```sql
+SELECT *
+FROM dbo.films250 f
+	INNER JOIN dbo.filmsgross g ON f.primaryTitle = g.primaryTitle;
+
+```
+
+![Example SQL Queries](/images/examplesqlqueries.png)
+
 ## Questions
 - Was it easy to configure the AI Skill?
 - What did the model instructions do?
+- Did the sample query improve the questions
 
 ## Next Steps
 [Lab 2 - Publish the AI Skill Endpoint](/labs/lab02/lab02.md)

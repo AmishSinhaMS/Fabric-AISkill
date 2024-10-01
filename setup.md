@@ -1,7 +1,7 @@
 # Setup
 
 > [!TIP]
-> Clone the repo to have the data files locally prior to this step.
+> Clone the repo to have the data files locally prior to this step.  Alternately just download them from the `/data` folder in the repo.
 
 - Import some data to the lakehouse from the repo ready for AI Skill
 
