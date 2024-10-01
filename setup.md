@@ -15,7 +15,11 @@
 
 ![Upload Files](/images/uploadfiles.png)
 
-7. When the import completes successfully, review this data in Lakehouse mode:
+7. Right-click each file and click **Load to Tables** then **New table**:
+
+![Load to Table](/images/loadtotables.png)
+
+8. When the import completes successfully, review this data in Lakehouse mode:
 
 ![Lakehouse Mode](/images/lakehousemode.png)
 
