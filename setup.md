@@ -11,7 +11,7 @@
 3. Click the elipsis (three dots) next to the new **Adhoc** folder
 4. Click **Upload**
 5. Click **Upload files**
-6. Upload the two csv from the data area in the repo:
+6. Upload the two csvs from the data area in the repo:
 
 ![Upload Files](/images/uploadfiles.png)
 

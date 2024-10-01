@@ -34,8 +34,16 @@ The AI Skill will take a few moments to create.
 
 Observe the SQL that is generated and run.
 
-2c.  List some films from 2024  
-2b.  What is the highest grossing film of all time?  
+2c.  Try this question:
+```
+List some films from 2024  
+```
+
+2b.  Try this question:
+```
+What is the highest grossing film of all time?
+```  
+
 2d. Come up with some other questions  
 
 ### 3. Add some notes for the model
@@ -47,6 +55,14 @@ dbo.films250 stores films.  Column primaryTitle is the film name.  dbo.filmsgros
 3b. Try the questions again  
 
 ![Answers with model notes](/images/notesandcasting.png)
+
+3c. Try this question on sequels:
+
+```
+Look for sequels, the will have the same root film name but a number. List them
+```
+
+How could this question be improved?
 
 ## 4. Add some sample queries
 4a. Click the pencil symbol by **Example SQL Queries** in the lower right-hand side of the screen
