@@ -24,7 +24,7 @@
 > AI Skill is currently in Public Preview.
 
 ### AI Skill Features
-- Write natural language questions about your data to AI Skill and will write SQL and run it for you, returning the answer.
+- Write natural language questions about your data to AI Skill and it will write SQL and run it for you, returning the answer.
 - Publish the AI Skill as an endpoint for consumption by other sources, eg custom Copilots
 
 
