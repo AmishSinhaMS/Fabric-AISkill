@@ -1,4 +1,4 @@
-# Lab 1 - set up AI Skill in Fabric
+# Lab 01 - Set up AI Skill in Fabric
 
 ## Steps
 1. [Create the AI Skill](#1-create-the-ai-skill)
@@ -16,19 +16,37 @@
 
 ![AI Skill Name](/labs/lab01/images/aiskillname.png)
 
-1d. Select the tables you want to be included.  Select all tables three in the Lakehouse imported earlier
+1d. Select the tables you want to be included, eg the two tables in the Lakehouse imported earlier:
+
+![Select Tables](/images/aiskillselecttables.png)
+
+1e. Click **Get Started**
 
 The AI Skill will take a few moments to create.
 
-### 2. Ask AI Skill some questions
-2a.
-2b.
-2c.  
+> [!CAUTION]
+> AI Skill does not always work first time.  Give it a few moments and try again.
 
-### 3. Add some model instructions
+### 2. Ask AI Skill some questions
+2a.  List some films 
+
+![List some films](/images/listsomefilms.png)
+
+Observe the SQL that is generated and run.
+
+2c.  List some films from 2024  
+2b.  What is the highest grossing film of all time?  
+2d. Come up with some other questions  
+
+### 3. Add some notes for the model
 3a.
-3b.
-3c.
+```
+dbo.films250 stores films.  Column primaryTitle is the film name.  dbo.filmsgross is related to dbo.films250 on primaryTitle.  Column gross should always be cast to dollars.
+
+```
+3b. Try the questions again  
+
+![Answers with model notes](/images/notesandcasting.png)
 
 ## Questions
 - Was it easy to configure the AI Skill?

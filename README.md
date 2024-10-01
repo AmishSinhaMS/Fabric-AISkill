@@ -12,8 +12,8 @@
 - [Introduction](#Introduction)
 - [Prerequisites](/prerequisites.md)
 - [Setup](/setup.md)
-- [Lab 1](/lab01.md)
-- [Lab 2](/lab02.md)
+- [Lab 01](/labs/lab01/lab01.md)
+- [Lab 02](/labs/lab02/lab02.md)
 
 
 ## Introduction
