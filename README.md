@@ -27,13 +27,15 @@
 - Write natural language questions about your data to AI Skill and it will write SQL and run it for you, returning the answer.
 - Publish the AI Skill as an endpoint for consumption by other sources, eg custom Copilots
 
-
-## Main Announcement
-https://blog.fabric.microsoft.com/en-us/blog/introducing-ai-skills-in-microsoft-fabric-now-in-public-preview/
-
-
-
 ## Next Steps
 [Prerequisites](/prerequisites.md)
 
 [^1]: https://blog.fabric.microsoft.com/en-us/blog/introducing-ai-skills-in-microsoft-fabric-now-in-public-preview/
+
+
+## Links
+- Main Announcement  
+https://blog.fabric.microsoft.com/en-us/blog/introducing-ai-skills-in-microsoft-fabric-now-in-public-preview/
+
+- MSLearn Get started  
+https://learn.microsoft.com/en-us/fabric/data-science/ai-skill-scenario
