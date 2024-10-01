@@ -59,7 +59,7 @@ dbo.films250 stores films.  Column primaryTitle is the film name.  dbo.filmsgros
 3c. Try this question on sequels:
 
 ```
-Look for sequels, the will have the same root film name but a number. List them
+Look for sequels, they will have the same root film name and an additional number. List them
 ```
 
 How could this question be improved?
