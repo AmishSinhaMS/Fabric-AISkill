@@ -9,12 +9,12 @@
 - A lakehouse in that workspace
 - AI Skill enabled for the tenant:
 
-![AI Skill Enabled for Tenant](/images/aiskillenabled.png)
+![AI Skill Enabled for Tenant](/labs/lab01/images/aiskillenabled.png)
 
 
 
 > [!IMPORTANT]
-> AI Skill is not available on trial capacities  even though they are F64 equivalent.  The same is true for Copilot
+> AI Skill is not available on trial capacities  even though they are F64 equivalent.  The same is true for Copilot.
 
 > [!TIP]
 > Consider creating a new workspace (`ws_aiskill`) and new Lakehouse in that workspace called `lh_aiskill`.
