@@ -39,3 +39,6 @@ https://blog.fabric.microsoft.com/en-us/blog/introducing-ai-skills-in-microsoft-
 
 - MSLearn Get started  
 https://learn.microsoft.com/en-us/fabric/data-science/ai-skill-scenario
+
+- Harness AI Skill  
+https://blog.fabric.microsoft.com/en-us/blog/harness-microsoft-fabric-ai-skill-to-unlock-context-rich-insights-from-your-data/

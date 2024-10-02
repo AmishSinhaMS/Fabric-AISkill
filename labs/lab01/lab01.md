@@ -7,9 +7,11 @@
 
 ### 1. Create the AI Skill
 1a. In your Fabric workspace, click on the **Data Science** experience in the workload switcher (bottom left-hand side of the Fabric screen):
+
 ![Data Science Experience](/labs/lab01/images/datascienceexperience.png)
 
-1b.  Click on **AI Skill (preview)**  
+1b.  Click on **AI Skill (preview)**
+
 ![AI Skill](/labs/lab01/images/aiskill.png)
 
 1c. Give the AI Skill a name, eg `ai_films`.
@@ -18,7 +20,7 @@
 
 1d. Select the tables you want to be included, eg the two tables in the Lakehouse imported earlier:
 
-![Select Tables](/images/aiskillselecttables.png)
+![Select Tables](/labs/lab01/images/aiskillselecttables.png)
 
 1e. Click **Get Started**
 
@@ -26,6 +28,11 @@ The AI Skill will take a few moments to create.
 
 > [!CAUTION]
 > AI Skill does not always work first time.  Give it a few moments and try again.
+
+> [!NOTE]
+> If you experience the **NoCrossGeo** error, enable the Cross Geo option in the Fabric Admin portal
+
+![Enable Cross Geo](/labs/lab01/images/enablecrossgeo.png)
 
 ### 2. Ask AI Skill some questions
 2a.  List some films 

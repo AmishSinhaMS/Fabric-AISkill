@@ -1,7 +1,9 @@
 # Prerequisites
 
 - An Azure subscription
-- A Fabric capacity, **F64** or above
+- A paid F64 or higher Fabric capacity resource.
+- Copilot tenant switch is enabled.
+- Cross-geo sharing for AI is enabled, if relevant.
 - A workspace
 - Admin permissions on that workspace
 - A lakehouse in that workspace
