@@ -12,8 +12,8 @@
 - [Introduction](#Introduction)
 - [Prerequisites](/prerequisites.md)
 - [Setup](/setup.md)
-- [Lab 01](/labs/lab01/lab01.md)
-- [Lab 02](/labs/lab02/lab02.md)
+- [Lab 01 - Set up AI Skill in Fabric](/labs/lab01/lab01.md)
+- [Lab 02 - Publish the AI Skill Endpoint](/labs/lab02/lab02.md)
 
 
 ## Introduction
